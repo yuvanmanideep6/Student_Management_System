@@ -1,0 +1,2 @@
+
+console.log("Student Management System Started");
